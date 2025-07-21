@@ -1,0 +1,11 @@
+Recurrent Neural Networks Exercises - Multiple choices answers
+1. C
+2. A
+3. A
+4. D
+5. C
+6. C
+7. B
+8. D
+9. A
+10. C
